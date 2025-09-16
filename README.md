@@ -39,7 +39,7 @@
 ├── 05_abstraction/          # Trừu tượng
 ├── 06_exercises/            # Bài tập OOP
 ├── 07_projects/             # Một số mini project áp dụng OOP
-└── README.md                # File hướng dẫn này
+
 ```
 
 <img width="484" height="483" alt="image" src="https://github.com/user-attachments/assets/1c429713-90ba-47f7-b23f-70fd0df1e29c" />
