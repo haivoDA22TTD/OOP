@@ -1,6 +1,6 @@
 # 📘 Học Tập OOP - Lập Trình Hướng Đối Tượng
 
-Đây là repo dùng để lưu trữ các ví dụ, bài tập, và ghi chú học tập về **Lập trình Hướng Đối Tượng (Object-Oriented Programming - OOP)**. Repo tập trung vào các khái niệm cơ bản đến nâng cao của OOP sử dụng ngôn ngữ **Java** (hoặc ngôn ngữ khác nếu cần).
+Đây là repo dùng để lưu trữ các ví dụ, bài tập, và ghi chú học tập về **Lập trình Hướng Đối Tượng (Object-Oriented Programming - OOP)**. Repo tập trung vào các khái niệm cơ bản đến nâng cao của OOP sử dụng ngôn ngữ **Java** 
 
 ---
 
