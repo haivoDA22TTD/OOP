@@ -7,7 +7,7 @@
 ## 📚 Nội Dung
 
 ### 1. Giới thiệu OOP
-- OOP là gì?
+- Khái niệm OOP
 - Lợi ích của OOP
 - So sánh OOP và lập trình thủ tục
 
